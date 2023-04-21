@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Umesh Chauhan</h1>
-<h3 align="center">A Tech-enthusiast with a passion for exploring emerging technologies and innovative solutions</h3>
+<h2 align="center">A Tech-enthusiast with a passion for exploring emerging technologies and innovative solutions</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-042&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-042" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umesh-042" alt="umesh-042" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
-<p align="left"> <a href="https://twitter.com/umeshch81850105" target="blank"><img src="https://img.shields.io/twitter/follow/umeshch81850105?logo=twitter&style=for-the-badge" alt="umeshch81850105" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Node.js, MongoDB, AI/ML, MySQL and PHP**
+- 🌱 I’m currently learning **Flutter, Node.js, MongoDB, MySQL, PHP**
 
 - 👯 I’m looking to collaborate on **challenging Flutter projects that prioritize user experience and performance optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UMESH-042?tab=repositories](https://github.com/UMESH-042?tab=repositories)
+- 📫 How to reach me chauhanumesh7122003@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +30,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umesh-042&show_icons=true&locale=en" alt="umesh-042" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh-042&" alt="umesh-042" /></p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-042&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-042" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umesh-042" alt="umesh-042" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/umeshch81850105" target="blank"><img src="https://img.shields.io/twitter/follow/umeshch81850105?logo=twitter&style=for-the-badge" alt="umeshch81850105" /></a> </p>
+
