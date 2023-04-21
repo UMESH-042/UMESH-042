@@ -40,3 +40,4 @@
 
 <p align="left"> <a href="https://twitter.com/umeshch81850105" target="blank"><img src="https://img.shields.io/twitter/follow/umeshch81850105?logo=twitter&style=for-the-badge" alt="umeshch81850105" /></a> </p>
 
+[![An image of @babayaga007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/babayaga007)](https://holopin.io/@babayaga007)
