@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umesh Chauhan</h1>
 <h3 align="center">A Tech-enthusiast with a passion for exploring emerging technologies and innovative solutions</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-042&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-042" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umesh-042" alt="umesh-042" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/umeshch81850105" target="blank"><img src="https://img.shields.io/twitter/follow/umeshch81850105?logo=twitter&style=for-the-badge" alt="umeshch81850105" /></a> </p>
 
@@ -12,6 +9,10 @@
 - 👯 I’m looking to collaborate on **challenging Flutter projects that prioritize user experience and performance optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UMESH-042?tab=repositories](https://github.com/UMESH-042?tab=repositories)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-042&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-042" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umesh-042" alt="umesh-042" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
