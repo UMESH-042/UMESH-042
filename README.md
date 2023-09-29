@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Chauhan</h1>
 <h3 align="center">A Tech-enthusiast with a passion for exploring emerging technologies and innovative solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/umeshch81850105" target="blank"><img src="https://img.shields.io/twitter/follow/umeshch81850105?logo=twitter&style=for-the-badge" alt="umeshch81850105" /></a> </p>
 
