@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/umeshch81850105" target="blank"><img src="https://img.shields.io/twitter/follow/umeshch81850105?logo=twitter&style=for-the-badge" alt="umeshch81850105" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Node.js, MongoDB, AI/ML, MySQL and PHP**
+- 🌱 I’m currently learning **Flutter, Node.js, MongoDB, MySQL and AI/ML**
 
 - 👯 I’m looking to collaborate on **challenging Flutter projects that prioritize user experience and performance optimization**
 
